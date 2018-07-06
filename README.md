@@ -2,4 +2,4 @@
 
 This is an example project 
 
-Make a change
+Make changes
