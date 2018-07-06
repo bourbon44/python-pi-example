@@ -1,3 +1,3 @@
 # python-pi-example
 
-This an example project 
+This is an example project 
